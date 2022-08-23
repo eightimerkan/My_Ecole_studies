@@ -4,12 +4,12 @@
 TURKISH
 
 
-Get_next_line'nın amacı dosyayı okuduğumuz zaman ki ilk satırı çekmek ve satırdan fazlasını çektiğimiz zaman bu veriyi static bir variable de korumak.Aynı zamanda dosyadan sürekli veri okumak yerine static variable de veriyi saklamak ve optimizasyon sağlamak.
+Get_next_line'nın amacı dosyayı okuduğumuz zamanki ilk satırı çekmek ve satırdan fazlasını çektiğimiz zaman bu veriyi static bir variable de korumak. Aynı zamanda dosyadan sürekli veri okumak yerine static variable de veriyi saklamak ve optimizasyon sağlamak.
 
-Projeyi nasıl yaptım ? 
+Projeyi nasıl yaptım? 
 3 kısıma ayırdım.
 
-1. Kısım: Veriyi dosyadan oku. Okuduğum tüm veriyi static variable de sakla. (store function)
+1. Kısım: Veriyi dosyadan oku. Okuduğum tüm veriyi statik değişken de sakla. (store function)
 
 2. Kısım: Depomdan ilk satırı çek.(pull_new_line function)
 
