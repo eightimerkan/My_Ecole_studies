@@ -27,4 +27,4 @@ Part 1: Read data from file. Store all the data I read in a static variable. (st
 
 Part 2: Pull the first line from my repository.(pull_new_line function)
 
-Part 3: Pull the first row from my repository, get the rest and update the repository.(seperate function)
+Part 3: Pull the first line from my repository, get the rest and update the repository.(seperate function)
